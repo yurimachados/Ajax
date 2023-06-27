@@ -1,0 +1,35 @@
+form {
+    padding: 1rem;
+    border: 1px solid rgb(10, 77, 131);
+    margin: 5px;
+    background-color: rgb(240, 240, 240);
+}
+
+#container {
+    border:  1px solid rgb(133, 49, 0);
+    background-color: rgb(230, 230, 230);
+}
+
+#mensagem{
+    margin-left: 1rem;
+}
+
+input {
+    display: block;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    border: 1px solid rgb(10, 77, 131);
+}
+
+label {
+    display: block;
+    margin: 0 auto;
+    font-size: 1rem;
+}
+
+button {
+    font-size: 1.3rem;
+    background-color: rgb(10, 77, 131);
+    color: aliceblue;
+}

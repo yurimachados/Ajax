@@ -44,6 +44,20 @@ p {
 }
 .container {
     width: 86%;
+    height: 40%;
     background-color: rgb(147, 189, 190);
+    border: 1px solid red;
     padding: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+}
+
+form {
+    height: 250px;
+    align-items: center;
+}
+
+label {
+    margin-right: 20px;
 }
